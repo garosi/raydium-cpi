@@ -26,5 +26,5 @@ spl-memo = "=4.0.0"
 spl-associated-token-account = { version = "2.2.0", features = [
     "no-entrypoint",
 ] }
-num_enum = "=0.7.0"
+num_enum = "=0.7.3"
 ahash = "=0.8.6"
